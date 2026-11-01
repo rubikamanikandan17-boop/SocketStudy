@@ -105,6 +105,7 @@ server_socket.close()
 ```
 ## client:
 <img width="707" height="202" alt="image" src="https://github.com/user-attachments/assets/bda7eb98-02dc-46ea-ae62-1fa1be552939" />
+
 ## server:
 <img width="720" height="225" alt="image" src="https://github.com/user-attachments/assets/8db6f21b-b6ab-4a43-b133-30939d700e53" />
 
